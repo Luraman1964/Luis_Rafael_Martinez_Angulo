@@ -13,8 +13,7 @@ body{
 	margin: auto;
 	margin-top: 20px;
 	margin-bottom: 20px;
-	border-radius: 20px;
-	overflow: hidden;
+	
 	
 }
 header{
@@ -37,8 +36,8 @@ nav h2{
 	line-height: 60px;
 }
 
-#Contenido {
-	width: 700px;
+#contenido {
+	width: 500px;
 	height: 500px;
 	background: blue;
 	margin-top: 10px;
@@ -47,36 +46,9 @@ nav h2{
 }
 
 
- #Contenido h2{
+ #contenido h2{
 		font-size: 40px;
 		text-align: center;
 		line-height: 500px;
 	}
 
-aside {
-	width: 250px;
-	height: 500px;
-	background: green;
-	margin-top: 10px;
-	float: right;
-
-}
-
-aside h2 {
-	font-size: 40px;
-	text-align: center;
-	line-height: 500px;
-}
-
-footer {
-	background: #000;
-	clear: both;
-
-}
-
-footer h2 {
-	padding: 20px;
-	font-style: italic;
-	text-align: center;
-
-}
