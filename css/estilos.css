@@ -40,17 +40,21 @@ nav h2{
 #Contenido {
 	width: 700px;
 	height: 500px;
-	background: blue;
 	margin-top: 10px;
 	margin-right: 10px;
 	float: left;
+	background-image: url("D:\Curso Git\Pagina Web\Imagenes\odontologo1.jpg");
+	opacity:0,75 ;
 }
 
 
+
  #Contenido h2{
-		font-size: 40px;
+		
+  		color: #ffffff;  
+  		font-size: 40px;
 		text-align: center;
-		line-height: 500px;
+		line-height: 60px;
 	}
 
 aside {
